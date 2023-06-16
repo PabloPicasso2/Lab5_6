@@ -1,0 +1,1 @@
+g++ -o main main.cpp gen/gen.cpp square/square.cpp sinus/sinus.cpp triangle/triangle.cpp comp_concrete/comp_concrete.cpp composite_loop/composite_loop.cpp leaf_arx/leaf_arx.cpp compon_loop/compon_loop.cpp pid/pid.cpp pi/pi.cpp pd/pd.cpp
